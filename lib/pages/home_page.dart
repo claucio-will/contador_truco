@@ -31,7 +31,7 @@ class _HomePageState extends State<HomePage> {
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
                   Text(
-                    'Truco da Praça',
+                    'Contador de pontos',
                     style: TextStyle(
                         fontSize: 25,
                         color: AppColors.grey,
